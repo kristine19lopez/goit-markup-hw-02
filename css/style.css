@@ -128,7 +128,7 @@ body {
 
 /* portfolio page */
 
-.button-portfoli-portfolio {
+.button-portfolio {
     color: var(--IRIS);
     background-color: var(--CLOUD);
     font-family: "Roboto", sans-serif;
@@ -137,6 +137,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+   
 }
 .button-portfolio:hover,
 .button-portfolio:focus {
