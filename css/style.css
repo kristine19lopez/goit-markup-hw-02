@@ -58,17 +58,17 @@ body {
     color: var(--moderate-blue);
 }
 /* section1 */
-.section1 {
+.section-first {
     background-color: var(--NAVY-BLUE);
 }
-.header {
+.header-first {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--WHITE);
 }
-.button {
+.button-first {
     background-color: var(--IRIS);
     font-family: inherit;
     font-weight: 500;
@@ -78,8 +78,8 @@ body {
     color: var(--WHITE);
     cursor: pointer;
 }
-.button:hover,
-.button:focus {
+.button-first:hover,
+.button-first:focus {
     background-color: var(--moderate-blue);
 
     /* section2 */
