@@ -21,11 +21,12 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+ }
+ .link{
     text-decoration: none;
  }
-.logo-link{
+.inside-logo{
     color: #2e2f42;
-    text-decoration: none;
 }
 .list {
     list-style: none;
