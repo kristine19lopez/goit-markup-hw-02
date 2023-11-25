@@ -57,3 +57,70 @@ body {
     color: #404bbf;
 }
 /* section1 */
+.section1 {
+    background-color: #2e2f42;
+}
+.header{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.button{
+    background-color: var(--IRIS);
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--WHITE);
+    cursor: pointer;
+}
+.button:hover,
+.button:focus{
+    background-color: #404BBF;
+
+    /* section2 */
+}
+.list-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--NAVY-BLUE);
+}
+.list-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--SLATE);
+}
+/* section3 */
+.header-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--NAVY-BLUE);
+}
+/* section4 */
+.section4{
+    background-color: var(--CLOUD);
+}
+.team{
+    background-color: var(--WHITE)
+}
+/* footer */
+.footer{
+    background-color: var(--NAVY-BLUE);
+}
+.footer-logo{
+    color: var(--CLOUD);
+}
+.footer-text{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--CLOUD);
+}
