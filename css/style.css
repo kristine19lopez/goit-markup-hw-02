@@ -50,14 +50,9 @@ body {
     color:#434455;
     text-decoration: none;
 }
+.contact>.contact-link:hover,
+.contact>.contact-link:focus{
+    color: #404bbf;
+}
 
-.contact-link:hover {
-    color: #404bbf;
-}
-.contact-link:hover {
-    color: #404bbf;
-}
 /* section1 */
-.header{
-    ba
-}
