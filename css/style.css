@@ -89,7 +89,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--NAVY-BLUE);
+    color: var(--NAVY-BLUE));
 }
 .list-text {
     font-size: 16px;
@@ -124,4 +124,22 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--CLOUD);
+}
+
+
+/* portfolio page */
+
+.button2 {
+    color: var(--IRIS);
+    background-color: var(--CLOUD);
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.button2:hover,
+.button2:focus {
+    color: var(--moderate-blue);
 }
