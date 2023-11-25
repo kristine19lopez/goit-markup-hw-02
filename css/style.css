@@ -58,19 +58,19 @@ body {
     color: var(--moderate-blue);
 }
 /* section1 */
-.section-first {
+.section-one {
     background-color: var(--NAVY-BLUE);
 }
-.header-first {
+.header-one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--WHITE);
 }
-.button-first {
+.button-one {
     background-color: var(--IRIS);
-    font-family: inherit;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -78,18 +78,17 @@ body {
     color: var(--WHITE);
     cursor: pointer;
 }
-.button-first:hover,
-.button-first:focus {
+.button-onet:hover,
+.button-one:focus {
     background-color: var(--moderate-blue);
-
-    /* section2 */
 }
+    /* section2 */
 .list-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--NAVY-BLUE));
+    color: var(--NAVY-BLUE);
 }
 .list-text {
     font-size: 16px;
@@ -107,7 +106,7 @@ body {
     color: var(--NAVY-BLUE);
 }
 /* section4 */
-.section4 {
+.section-four {
     background-color: var(--CLOUD);
 }
 .team {
