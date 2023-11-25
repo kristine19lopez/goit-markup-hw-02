@@ -78,7 +78,7 @@ body {
     color: var(--WHITE);
     cursor: pointer;
 }
-.button-onet:hover,
+.button-one:hover,
 .button-one:focus {
     background-color: var(--moderate-blue);
 }
@@ -128,17 +128,18 @@ body {
 
 /* portfolio page */
 
-.button2 {
+.button-portfoli-portfolio {
     color: var(--IRIS);
     background-color: var(--CLOUD);
-    font-family: inherit;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.button2:hover,
-.button2:focus {
-    color: var(--moderate-blue);
+.button-portfolio:hover,
+.button-portfolio:focus {
+    color: var(--WHITE);
+    background-color: var(--moderate-blue);
 }
