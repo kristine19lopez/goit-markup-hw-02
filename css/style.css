@@ -6,12 +6,13 @@
     --SLATE: #434455;
     --WHITE: #FFFFFF; 
 }
-/* top line */
+/* index page */
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
+/* header */
  .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -20,40 +21,43 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
- }
- .link{
     text-decoration: none;
  }
 .logo-link{
     color: #2e2f42;
+    text-decoration: none;
 }
 .list {
     list-style: none;
 }
-.list-item > .links{
+.list-item>.links{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0,02em;
-    color: #2e2f42;
+    letter-spacing: 0.02em;
+    color: var(--NAVY-BLUE);
+    text-decoration: none;
 }
-.links:hover{
+.list-item>.links:hover,
+.list-item>.links:focus {
     color: #404bbf;
 }
-.links:focus{
-    color: #404bbf;
-}
-.contacts{
+.contact>.contact-link{
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
-}
-.contact-link:hover {
-    color: #404bbf;
-}
-.contact-link:hover {
-    color: #404bbf;
+    color:#434455;
+    text-decoration: none;
 }
 
+.contact-link:hover {
+    color: #404bbf;
+}
+.contact-link:hover {
+    color: #404bbf;
+}
+/* section1 */
+.header{
+    ba
+}
