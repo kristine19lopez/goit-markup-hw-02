@@ -144,4 +144,20 @@ body {
     color: var(--WHITE);
     background-color: var(--moderate-blue);
 }
-/* third element */
+/* list of pictures */
+.link{
+    text-decoration: none;
+}
+.images{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--NAVY-BLUE);
+}
+.text-image{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--SLATE);
+}
