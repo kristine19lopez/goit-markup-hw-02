@@ -32,7 +32,7 @@ body {
 .list {
     list-style: none;
 }
-.list-item>.item {
+.item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -40,8 +40,8 @@ body {
     color: var(--NAVY-BLUE);
     text-decoration: none;
 }
-.list-item>.item:hover,
-.list-item>.item:focus {
+.item:hover,
+.item:focus {
     color: var(--moderate-blue);
 }
 .address {
